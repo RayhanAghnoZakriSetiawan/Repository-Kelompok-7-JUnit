@@ -1,3 +1,7 @@
+Disusun Oleh :
+Abdul Hafid rr (11230910000056)
+Rayhan Aghno Zakri Setiawan (12409011030042)
+
 # 5W + 1H
 
 | Pertanyaan | Jawaban | 
